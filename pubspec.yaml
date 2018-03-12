@@ -1,7 +1,7 @@
 name: duration_parser
 description: Module for parsing ISO8601 durations.
 version: 1.0.0
-author:
-homepage:
+author: Lucas Souza <lucassouza1@gmail.com>
+homepage: https://github.com/lucassouza1/duration_parser
 dev_dependencies:
   test: ^0.12.0
