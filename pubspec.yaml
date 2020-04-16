@@ -3,5 +3,7 @@ description: Module for parsing ISO8601 durations.
 version: 1.0.0
 author: Lucas Souza <lucassouza1@gmail.com>
 homepage: https://github.com/lucassouza1/duration_parser
+environment:
+  sdk: ">=1.0.0 <3.0.0"
 dev_dependencies:
-  test: ^0.12.0
+  test: ^1.9.0
